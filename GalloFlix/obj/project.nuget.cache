@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g1FLr1vffKkcdjwFxS1LJ8epdi+q5RCPn7C5WyWAoxT1SOl4DkcB3KuOvsSgQWZxbi7ThzvE3AZpN5+RLe4rUA==",
+  "dgSpecHash": "mUR+FV2JOaRYsQNOtZGMge0qP2ATxV9FfBYkvdvaWo/dkxaDr6mDHQ1+u/ixdKMDZ/q1k8MhQmFbeLXTLEKy4A==",
   "success": true,
-  "projectFilePath": "C:\\pw 3\\GalloFlix\\GalloFlix\\GalloFlix.csproj",
+  "projectFilePath": "C:\\Pw\\GalloFlix\\GalloFlix\\GalloFlix.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etec\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\etec\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.16\\microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",

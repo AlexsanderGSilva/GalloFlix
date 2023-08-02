@@ -965,11 +965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\pw 3\\GalloFlix\\GalloFlix\\GalloFlix.csproj",
+      "projectUniqueName": "C:\\Pw\\GalloFlix\\GalloFlix\\GalloFlix.csproj",
       "projectName": "GalloFlix",
-      "projectPath": "C:\\pw 3\\GalloFlix\\GalloFlix\\GalloFlix.csproj",
+      "projectPath": "C:\\Pw\\GalloFlix\\GalloFlix\\GalloFlix.csproj",
       "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-      "outputPath": "C:\\pw 3\\GalloFlix\\GalloFlix\\obj\\",
+      "outputPath": "C:\\Pw\\GalloFlix\\GalloFlix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",

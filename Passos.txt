@@ -1898,8 +1898,3 @@ public class HomeController : Controller
 
 -- Salvar todos os arquivos, abrir o terminal e execute o projeto
 dotnet watch run
-
-
-
-
-
